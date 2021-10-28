@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/jesusm29"><img src="https://api.daily.dev/devcards/ceeb979f490949e6a55efcbcc875b2cc.png?r=m7j" width="400" alt="Jesus Medina's Dev Card"/></a>
+<a href="https://app.daily.dev/jesusm29"><img src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="400" alt="Jesus Medina's Dev Card"/></a>
 
 <!--
 **Jesusm1229/Jesusm1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
