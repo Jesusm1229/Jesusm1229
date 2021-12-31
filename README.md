@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jesusm1229?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEcpyGYvZ4uq8Lkf85-pheQ?style=social)
 
-![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada.gif)
+![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada_1.gif)
   
 
 
