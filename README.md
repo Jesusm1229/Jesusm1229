@@ -27,14 +27,13 @@ de digitalización creando e impulsando ideas innovadoras.
   ** Hablando de cosas personales: **
 
 - 👨🏻‍💻 Actualmente estoy trabajando en algo genial;
-- 🚀 Actualmente estoy aprendiendo Estructuras de datos y algoritmos en [leetcode] (https://leetcode.com/GKassym);
+- 🚀 Actualmente estoy produciendo software en Angular;
 - 💬 Pregúnteme sobre cualquier cosa, estoy feliz de ayudar;
-- 📝 Regularmente escribo artículos en [medio] (https://gapur-kassym.medium.com);
-- 📫 Cómo contactarme: gapur.kassym@gmail.com;
-- 📝 [Reanudar] (https://gkassym.netlify.app/Resume.pdf).
+- 📝 Iniciando un canal de divulgación científica en Youtube [medio] (https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ);
+- 📫 Cómo contactarme: jesusmedina1229@gmail.com;
+- :trophy: Si quieres jugar una partida de ajedrez en Chess.com: Jesusm1229.
   
-
-
+</br>
  
   
 
