@@ -20,9 +20,20 @@ de digitalización creando e impulsando ideas innovadoras.
 
  Me considero un entusiasta centrado constantemente experimentando con nuevas tecnologías y estrategias con un enfoque artístico para producir emoción y soluciones a la comunidad.
   
-<p align='right'>  
-    <a href="https://app.daily.dev/jesusm29"><img src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/></a>&nbsp;&nbsp; 
-</p>
+ 
+<a href="https://app.daily.dev/jesusm29"><img align="right" src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/><a> 
+
+  
+  ** Hablando de cosas personales: **
+
+- 👨🏻‍💻 Actualmente estoy trabajando en algo genial;
+- 🚀 Actualmente estoy aprendiendo Estructuras de datos y algoritmos en [leetcode] (https://leetcode.com/GKassym);
+- 💬 Pregúnteme sobre cualquier cosa, estoy feliz de ayudar;
+- 📝 Regularmente escribo artículos en [medio] (https://gapur-kassym.medium.com);
+- 📫 Cómo contactarme: gapur.kassym@gmail.com;
+- 📝 [Reanudar] (https://gkassym.netlify.app/Resume.pdf).
+  
+
 
  
   
