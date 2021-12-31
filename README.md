@@ -20,7 +20,7 @@
 
  <h2>📈My GitHub Stats:</h2>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusm1229&show_icons=true&hide_border=true&border_radius=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusm1229&show_icons=true&hide_border=true&border_radius=0" />&nbsp;&nbsp;  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusm1229&hide_border=true&border_radius=0&layout=compact&langs_count=8"/>
 </p>  
 
