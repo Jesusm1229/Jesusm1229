@@ -8,19 +8,21 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;   
 </p>  
- 
-
   
-
-
-![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada_1.gif)
+ ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada_1.gif)
   
 <h2>About me</h2>
   
+  <p align='right'>  
+<a href="https://app.daily.dev/jesusm29"><img src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/></a>&nbsp;&nbsp; 
+  </p> 
   
 
-
-<a href="https://app.daily.dev/jesusm29"><img src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/></a>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusm1229&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusm1229)](https://github.com/anuraghazra/github-readme-stats)
+  
+ 
 <!--
 **Jesusm1229/Jesusm1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
