@@ -1,7 +1,14 @@
-### Hi there 👋
+<h2 align="center">Jesús Medina  <div>Software developer <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+
+![GitHub followers](https://img.shields.io/github/followers/jesusm1229?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEcpyGYvZ4uq8Lkf85-pheQ?style=social)
+
+![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada.gif)
+  
+
+
 
 <a href="https://app.daily.dev/jesusm29"><img src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/></a>
-
 <!--
 **Jesusm1229/Jesusm1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
