@@ -30,9 +30,9 @@ de digitalización creando e impulsando ideas innovadoras.
 - 🚀 Produciendo servicios en Angular;
 - 💬 Pregúnteme sobre cualquier cosa, estoy feliz de ayudar;
 - 📫 Cómo contactarme: jesusmedina1229@gmail.com;
-- :trophy: Si quieres jugar una partida de ajedrez en Chess.com: Jesusm1229.
-   
-- :tv: También estoy iniciando un canal de divulgación científica en [Youtube](https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ);  
+- :tv: Estoy iniciando un canal de divulgación científica en [Youtube](https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ); 
+- :trophy: También podemos jugar una partida de ajedrez en [Chess.com](https://www.chess.com/member/jesusm1229).
+  
 </br>
  
   
