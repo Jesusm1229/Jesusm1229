@@ -9,7 +9,7 @@
   </a>&nbsp;&nbsp;   
 </p>  
   
- ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada_1.gif)
+ ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada_3.gif)
   
 <h2>About me</h2>
   
@@ -24,12 +24,12 @@ de digitalización creando e impulsando ideas innovadoras.
  
 
   
-  ** Hablando de cosas personales: **
+**Ejes actuales**
 
 - 👨🏻‍💻 Actualmente estoy trabajando en algo genial;
 - 🚀 Actualmente estoy produciendo software en Angular;
 - 💬 Pregúnteme sobre cualquier cosa, estoy feliz de ayudar;
-- 📝 Iniciando un canal de divulgación científica en Youtube [medio] (https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ);
+- :tv: Iniciando un canal de divulgación científica en Youtube [medio] (https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ);
 - 📫 Cómo contactarme: jesusmedina1229@gmail.com;
 - :trophy: Si quieres jugar una partida de ajedrez en Chess.com: Jesusm1229.
   
