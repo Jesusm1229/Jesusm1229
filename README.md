@@ -3,11 +3,13 @@
   ![GitHub followers](https://img.shields.io/github/followers/jesusm1229?style=social)
   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEcpyGYvZ4uq8Lkf85-pheQ?style=social)
   
-<p align='center'>  
+<p align='left'>  
   <a href="https://www.linkedin.com/in/jesus-medina-3a977415a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;   
 </p>  
+ 
+
   
 
 
