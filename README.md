@@ -14,11 +14,13 @@
 <h2>About me</h2>
 Soy desarrollador frontend y estudiante de ingeniería en computación. 
 
-Como futuro ingeniero me dedico explorar la posibilidad de una nueva era en el proceso de digitalización creando e impulsando ideas especiales.
-
-  <p align='right'>  
+Como futuro ingeniero me dedico explorar la posibilidad de una nueva era en el proceso de digitalización  
+   <p align='right'>  
     <a href="https://app.daily.dev/jesusm29"><img src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/></a>&nbsp;&nbsp; 
-  </p> 
+  </p>   
+  creando e impulsando ideas especiales.
+
+ 
   
 
 <h2>📈 :massage: My GitHub Stats</h2>
