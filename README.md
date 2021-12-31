@@ -19,20 +19,20 @@ Soy desarrollador frontend y estudiante de ingeniería en computación.
  Como futuro ingeniero me dedico explorar la posibilidad de una nueva era en el proceso 
 de digitalización creando e impulsando ideas innovadoras. 
 
-  Me considero un entusiasta centrado constantemente experimentando con nuevas tecnologías y estrategias con un enfoque artístico para producir emoción y soluciones a la comunidad.
+  Me considero un entusiasta centrado en experimentar con nuevas tecnologías y estrategias con un enfoque artístico para producir soluciones emocionantes y efectivas en la comunidad.
   
  
 
   
-**Ejes actuales**
+  **Mis ejes actuales**
 
-- 👨🏻‍💻 Actualmente estoy trabajando en algo genial;
-- 🚀 Actualmente estoy produciendo software en Angular;
+- 👨🏻‍💻 Trabajando en algo genial;
+- 🚀 Produciendo servicios en Angular;
 - 💬 Pregúnteme sobre cualquier cosa, estoy feliz de ayudar;
-- :tv: Iniciando un canal de divulgación científica en Youtube [medio] (https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ);
 - 📫 Cómo contactarme: jesusmedina1229@gmail.com;
 - :trophy: Si quieres jugar una partida de ajedrez en Chess.com: Jesusm1229.
-  
+   
+- :tv: También estoy iniciando un canal de divulgación científica en [Youtube](https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ);  
 </br>
  
   
