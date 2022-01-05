@@ -1,4 +1,4 @@
-<h2 align="center">Jesús Medina  <div>Software developer <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">Jesús Medina  <div>Software developer</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/jesusm1229?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEcpyGYvZ4uq8Lkf85-pheQ?style=social)  
@@ -11,7 +11,7 @@
   
  ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada_3.gif)
   
-<h2>:mage:About me</h2>
+<h2>About me</h2>
   
 Soy desarrollador frontend y estudiante de ingeniería en computación. 
  <a href="https://app.daily.dev/jesusm29"><img align="right" src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/><a> 
@@ -26,18 +26,17 @@ de digitalización creando e impulsando ideas innovadoras.
   
   **Mis ejes actuales**
 
-- 👨🏻‍💻 Trabajando en algo genial;
-- 🚀 Produciendo servicios en Angular;
-- 💬 Pregúnteme sobre cualquier cosa, estoy feliz de ayudar;
-- 📫 Cómo contactarme: jesusmedina1229@gmail.com;
-- :tv: Estoy iniciando un canal de divulgación científica en [Youtube](https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ); 
-- :trophy: También podemos jugar una partida de ajedrez en [Chess.com](https://www.chess.com/member/jesusm1229).
+- Trabajando en algo genial;
+- Produciendo servicios en Angular;
+- Cómo contactarme: jesusmedina1229@gmail.com;
+- Estoy iniciando un canal de divulgación científica en [Youtube](https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ); 
+- También podemos jugar una partida de ajedrez en [Chess.com](https://www.chess.com/member/jesusm1229).
   
 </br>
  
   
 
-<h2>📈My GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusm1229&show_icons=true&hide_border=true&border_radius=0" />&nbsp;&nbsp;  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusm1229&hide_border=true&border_radius=0&layout=compact&langs_count=8"/>
