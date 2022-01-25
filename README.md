@@ -10,7 +10,7 @@
 </p>  
  
 
- ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/HEADER (1).gif)
+ ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/HEADER%20(1).gif)
  
   
 <h2>About me</h2>
