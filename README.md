@@ -8,8 +8,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;   
 </p>  
-  
- ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/header.gif)
+ 
+
+ ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/Header_3.gif)
+ 
   
 <h2>About me</h2>
   
