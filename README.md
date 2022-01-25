@@ -9,7 +9,7 @@
   </a>&nbsp;&nbsp;   
 </p>  
   
- ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/portada_3.gif)
+ ![portada](https://github.com/Jesusm1229/Jesusm1229/blob/main/header.gif)
   
 <h2>About me</h2>
   
