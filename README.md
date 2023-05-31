@@ -17,7 +17,7 @@
   
 Computer Engineer and Frontend Developer
   
-<a href="https://jesusmedina.vercel.app/">Consulta mi portfolio</a>
+<a href="https://jesusmedina.vercel.app/">Check my portfolio</a>
  
 I am dedicated to explore the possibility of a new era in the digitization process by creating driving innovative ideas. 
 
