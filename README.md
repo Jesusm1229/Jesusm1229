@@ -15,24 +15,29 @@
   
 <h2>About me</h2>
   
-Soy desarrollador frontend y estudiante de ingeniería en computación. 
+Computer Engineer and Frontend Developer
+  
+<a href="https://jesusmedina.vercel.app/">Consulta mi portfolio</a>
  
- Como futuro ingeniero me dedico explorar la posibilidad de una nueva era en el proceso 
-de digitalización creando e impulsando ideas innovadoras. 
+I am dedicated to explore the possibility of a new era in the digitization process by creating driving innovative ideas. 
 
-  Me considero un entusiasta centrado en experimentar con nuevas tecnologías y estrategias con un enfoque artístico para producir soluciones emocionantes y efectivas en la comunidad.
+I consider myself an enthusiast focused on experimenting with new technologies and strategies with an artistic approach to produce exciting and effective solutions in the community.
   
  <!--
 <a href="https://app.daily.dev/jesusm29"><img align="right" src="https://github.com/Jesusm1229/Jesusm1229/blob/main/devcard.svg" width="200" alt="Jesus Medina's Dev Card"/><a> 
  -->
   
-  **Mis ejes actuales**
+  **My current points**
 
-- Trabajando en algo genial;
-- Produciendo servicios en Angular;
-- Cómo contactarme: jesusmedina1229@gmail.com;
-- Estoy iniciando un canal de divulgación científica en [Youtube](https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ); 
-- También podemos jugar una partida de ajedrez en [Chess.com](https://www.chess.com/member/jesusm1229).
+
+- Object Oriented Design (OOD) with the planning of interacting systems under the four principles of Abstraction, Encapsulation, Inheritance and Polymorphism.
+- Handling of data structures. I implement the use of efficient data organization to get the most out of the software.
+- I design under SOLID principles. I integrate the highest standards in the design and construction of robust software.
+  Design of relational and non-relational databases, from the planning of a system, I adjust the information storage capabilities to the needs and best response         required.
+
+- Contact me: jesusmedina1229@gmail.com;
+- Youtube channel for scientific divulgation [Youtube](https://www.youtube.com/channel/UCEcpyGYvZ4uq8Lkf85-pheQ); 
+- We can play a chess match if you want [Chess.com](https://www.chess.com/member/jesusm1229).
   
 </br>
  
